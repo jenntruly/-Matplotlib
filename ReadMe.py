@@ -9,8 +9,6 @@ As a senior data analyst at the company, you've been given access to the complet
 
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked you for a top-level summary of the study results.
 
-Files
-Download the following files to help you get started:
 
 Module 5 Challenge filesLinks to an external site.
 
